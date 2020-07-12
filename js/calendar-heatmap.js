@@ -1,7 +1,7 @@
 
 function calendarHeatmap() {
   // defaults
-  var width = 600;
+  var width = 700;
   var height = 110;
   var legendWidth = 150;
   var selector = 'body';
@@ -60,9 +60,10 @@ function calendarHeatmap() {
 
   chart.startDate = function (value) {
     if (!arguments.length) { return startDate; }
-    yearAgo = value;
-    //now = moment(value).endOf('day').add(1, 'year').toDate();
-	now = moment().valueOf();
+	if(value < yearAgo) {
+		now = moment(value).endOf('day').add(1, 'year').toDate();
+	}
+	yearAgo = value;
     return chart;
   };
 
@@ -129,9 +130,9 @@ function calendarHeatmap() {
       var svg = d3.select(chart.selector())
         .style('position', 'relative')
         .append('svg')
-        .attr('width', width)
+        .attr('width', width + SQUARE_PADDING)
         .attr('class', 'calendar-heatmap')
-        .attr('height', height + 50)
+        .attr('height', height + SQUARE_PADDING + MONTH_LABEL_PADDING * 1.3)
         .style('padding', '10px');
 
       dayRects = svg.selectAll('.day-cell')
@@ -193,20 +194,20 @@ function calendarHeatmap() {
             .attr('class', 'calendar-heatmap-legend')
             .attr('width', SQUARE_LENGTH)
             .attr('height', SQUARE_LENGTH)
-            .attr('x', function (d, i) { return (width - legendWidth) + (i + 1) * 13; })
+            .attr('x', function (d, i) { return (width - legendWidth) + (i + 1) * 12; })
             .attr('y', height + SQUARE_PADDING + MONTH_LABEL_PADDING)
             .attr('fill', function (d) { return d; });
 
         legendGroup.append('text')
           .attr('class', 'calendar-heatmap-legend-text calendar-heatmap-legend-text-less')
           .attr('x', width - legendWidth - 13)
-          .attr('y', height + SQUARE_LENGTH + MONTH_LABEL_PADDING)
+          .attr('y', height + SQUARE_PADDING + MONTH_LABEL_PADDING)
           .text(locale.Less);
 
         legendGroup.append('text')
           .attr('class', 'calendar-heatmap-legend-text calendar-heatmap-legend-text-more')
-          .attr('x', (width - legendWidth + SQUARE_PADDING) + (colorRange.length + 1) * 13)
-          .attr('y', height + SQUARE_LENGTH + MONTH_LABEL_PADDING)
+          .attr('x', (width - legendWidth + SQUARE_PADDING) + (colorRange.length + 1) * 12)
+          .attr('y', height + SQUARE_PADDING + MONTH_LABEL_PADDING)
           .text(locale.More);
       }
 
