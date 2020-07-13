@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kjs927.github.io/"/>
-  <updated>2020-07-13T10:52:32.800Z</updated>
+  <updated>2020-07-13T15:00:38.035Z</updated>
   <id>https://kjs927.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Access localhost from anywhere with ngrok</title>
+    <link href="https://kjs927.github.io/posts/25633/"/>
+    <id>https://kjs927.github.io/posts/25633/</id>
+    <published>2020-07-13T14:08:00.000Z</published>
+    <updated>2020-07-13T15:00:38.035Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Public URLs for exposing your local web server.</p></blockquote><a id="more"></a><ol><li><p><a href="https://ngrok.com/download">https://ngrok.com/download</a><br><img src="https://i.imgur.com/tGN0Y1h.png" alt=""></p></li><li><p>Example:<br>(1). Usage on Windows (my host machine).</p><figure class="highlight perl"><figcaption><span>ngrok help</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">EXAMPLES:</span><br><span class="line">    ngrok http <span class="number">80</span>                    <span class="comment"># secure public URL for port 80 web server</span></span><br><span class="line">    ngrok http -subdomain=baz <span class="number">8080</span>   <span class="comment"># port 8080 available at baz.ngrok.io</span></span><br><span class="line">    ngrok http foo.dev:<span class="number">80</span>            <span class="comment"># tunnel to host:port instead of localhost</span></span><br><span class="line">    ngrok http https:<span class="regexp">//localhost</span>     <span class="comment"># expose a local https server</span></span><br><span class="line">    ngrok tcp <span class="number">22</span>                     <span class="comment"># tunnel arbitrary TCP traffic to port 22</span></span><br><span class="line">    ngrok tls -hostname=foo.com <span class="number">443</span>  <span class="comment"># TLS traffic for foo.com to port 443</span></span><br><span class="line">    ngrok start foo bar baz          <span class="comment"># start tunnels from the configuration file</span></span><br><span class="line"></span><br><span class="line">VERSION:</span><br><span class="line">   <span class="number">2.3</span>.<span class="number">35</span></span><br><span class="line"></span><br><span class="line">AUTHOR:</span><br><span class="line">  inconshreveable - &lt;alan@ngrok.com&gt;</span><br><span class="line"></span><br><span class="line">COMMANDS:</span><br><span class="line">   authtoken    save authtoken to configuration file</span><br><span class="line">   credits      prints author <span class="keyword">and</span> licensing information</span><br><span class="line">   http         start an HTTP tunnel</span><br><span class="line">   start        start tunnels by name from the configuration file</span><br><span class="line">   tcp          start a TCP tunnel</span><br><span class="line">   tls          start a TLS tunnel</span><br><span class="line">   update       update ngrok to the latest version</span><br><span class="line">   version      <span class="keyword">print</span> the version string</span><br><span class="line">   help         Shows a list of commands <span class="keyword">or</span> help <span class="keyword">for</span> one command</span><br><span class="line"></span><br><span class="line">ngrok is a command line application, try typing <span class="string">'ngrok.exe http 80'</span></span><br><span class="line">at this terminal prompt to expose port <span class="number">80</span>.</span><br></pre></td></tr></table></figure><p>(2). To expose web server with a HTTP tunnel on port 23000 on Windows.</p><pre><code>ngrok http 23000</code></pre><p><img src="https://i.imgur.com/FsNRP1T.png" alt=""></p><p>(3). We can surf the web from anywhere now.<br><img src="https://i.imgur.com/Q5DrU0h.png" alt=""></p></li></ol><blockquote><p>Reference<br><a href="https://ngrok.com/">ngrok Official Website</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Public URLs for exposing your local web server.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://kjs927.github.io/categories/Tech/"/>
+    
+      <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
+    
+    
+      <category term="ngrok" scheme="https://kjs927.github.io/tags/ngrok/"/>
+    
+  </entry>
   
   <entry>
     <title>Installation of React on Ubuntu 18.04.4 LTS</title>
