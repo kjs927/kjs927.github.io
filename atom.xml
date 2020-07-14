@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kjs927.github.io/"/>
-  <updated>2020-07-13T23:04:41.177Z</updated>
+  <updated>2020-07-14T09:21:31.072Z</updated>
   <id>https://kjs927.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Get Started with Docker on Ubuntu 20.04 LTS</title>
+    <link href="https://kjs927.github.io/posts/23065/"/>
+    <id>https://kjs927.github.io/posts/23065/</id>
+    <published>2020-07-14T08:57:00.000Z</published>
+    <updated>2020-07-14T09:21:31.072Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Docker is a container technology for Linux that allows a developer to package up an application with all of the parts it needs.</p></blockquote><a id="more"></a><ol><li><p>sudo apt install docker.io</p><figure class="highlight perl"><figcaption><span>sudo apt install docker.io</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">Reading <span class="keyword">package</span> lists... Done</span><br><span class="line">Building dependency tree</span><br><span class="line">Reading <span class="keyword">state</span> information... Done</span><br><span class="line">Suggested packages:</span><br><span class="line">  aufs-tools btrfs-progs debootstrap docker-doc rinse zfs-fuse | zfsutils</span><br><span class="line">The following NEW packages will be installed:</span><br><span class="line">  docker.io</span><br><span class="line"><span class="number">0</span> upgraded, <span class="number">1</span> newly installed, <span class="number">0</span> to remove <span class="keyword">and</span> <span class="number">240</span> <span class="keyword">not</span> upgraded.</span><br><span class="line">Need to get <span class="number">38.9</span> MB of archives.</span><br><span class="line">After this operation, <span class="number">192</span> MB of additional disk space will be used.</span><br><span class="line">Get:<span class="number">1</span> http:<span class="regexp">//us</span>.archive.ubuntu.com/ubuntu focal-updates/universe amd64 docker.io amd64 <span class="number">19.03</span>.<span class="number">8</span>-0ubuntu1.<span class="number">20.04</span> [<span class="number">38.9</span> MB]</span><br><span class="line">Fetched <span class="number">38.9</span> MB in <span class="number">2</span>min <span class="number">29</span><span class="keyword">s</span> (<span class="number">260</span> kB/<span class="keyword">s</span>)</span><br><span class="line">Preconfiguring packages ...</span><br><span class="line">Selecting previously unselected <span class="keyword">package</span> docker.io.</span><br><span class="line">(Reading database ... <span class="number">193582</span> files <span class="keyword">and</span> directories currently installed.)</span><br><span class="line">Preparing to <span class="keyword">unpack</span> .../docker.io_19.<span class="number">03</span>.<span class="number">8</span>-0ubuntu1.<span class="number">20.04_</span>amd64.deb ...</span><br><span class="line">Unpacking docker.io (<span class="number">19.03</span>.<span class="number">8</span>-0ubuntu1.<span class="number">20.04</span>) ...</span><br><span class="line">Setting up docker.io (<span class="number">19.03</span>.<span class="number">8</span>-0ubuntu1.<span class="number">20.04</span>) ...</span><br><span class="line">docker.service is a disabled <span class="keyword">or</span> a static unit, <span class="keyword">not</span> starting it.</span><br><span class="line">Processing triggers <span class="keyword">for</span> man-db (<span class="number">2.9</span>.<span class="number">1</span>-<span class="number">1</span>) ...</span><br></pre></td></tr></table></figure></li><li><p><a href="https://docs.docker.com/engine/install/linux-postinstall/">Manage Docker as a non-root user</a></p></li><li><p>docker search hello-world</p><figure class="highlight perl"><figcaption><span>docker search hello-world</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">NAME                                       DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED</span><br><span class="line">hello-world                                Hello World! (an example of minimal Dockeriz…   <span class="number">1236</span>                [OK]</span><br><span class="line">kitematic/hello-world-nginx                A light-weight nginx container that demonstr…   <span class="number">147</span></span><br><span class="line">tutum/hello-world                          Image to test docker deployments. Has Apache…   <span class="number">72</span>                                      [OK]</span><br><span class="line">dockercloud/hello-world                    Hello World!                                    <span class="number">19</span>                                      [OK]</span><br><span class="line">crccheck/hello-world                       Hello World web server in under <span class="number">2.5</span> MB          <span class="number">12</span>                                      [OK]</span><br><span class="line">vad1mo/hello-world-rest                    A simple REST Service that echoes back all t…   <span class="number">4</span>                                       [OK]</span><br><span class="line">ppc64le/hello-world                        Hello World! (an example of minimal Dockeriz…   <span class="number">2</span></span><br><span class="line">carinamarina/hello-world-app               This is a sample Python web application, run…   <span class="number">1</span>                                       [OK]</span><br><span class="line">ansibleplaybookbundle/hello-world-db-apb   An APB which deploys a sample Hello World! a…   <span class="number">1</span>                                       [OK]</span><br><span class="line">markmnei/hello-world-java-docker           Hello-World-Java-docker                         <span class="number">1</span>                                       [OK]</span><br><span class="line">souravpatnaik/hello-world-go               hello-world in Golang                           <span class="number">1</span></span><br><span class="line">datawire/hello-world                       Hello World! Simple Hello World implementati…   <span class="number">1</span>                                       [OK]</span><br><span class="line">ansibleplaybookbundle/hello-world-apb      An APB which deploys a sample Hello World! a…   <span class="number">1</span>                                       [OK]</span><br><span class="line">rancher/hello-world                                                                        <span class="number">1</span></span><br><span class="line">strimzi/hello-world-consumer                                                               <span class="number">0</span></span><br><span class="line">strimzi/hello-world-streams                                                                <span class="number">0</span></span><br><span class="line">koudaiii/hello-world                                                                       <span class="number">0</span></span><br><span class="line">burdz/hello-world-k8s                      To provide a simple webserver that can have …   <span class="number">0</span>                                       [OK]</span><br><span class="line">businessgeeks0<span class="number">0</span>/hello-world-nodejs                                                         <span class="number">0</span></span><br><span class="line">strimzi/hello-world-producer                                                               <span class="number">0</span></span><br><span class="line">freddiedevops/hello-world-spring-boot                                                      <span class="number">0</span></span><br><span class="line">kevindockercompany/hello-world                                                             <span class="number">0</span></span><br><span class="line">infrastructureascode/hello-world           A tiny <span class="string">"Hello World"</span> web server with a healt…   <span class="number">0</span>                                       [OK]</span><br><span class="line">nirmata/hello-world                                                                        <span class="number">0</span>                                       [OK]</span><br><span class="line">uniplaces/hello-world                                                                      <span class="number">0</span></span><br></pre></td></tr></table></figure></li><li><p>docker pull hello-world</p><figure class="highlight perl"><figcaption><span>docker pull hello-world</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Using default tag: latest</span><br><span class="line">latest: Pulling from library/hello-world</span><br><span class="line">0e03bdcc26d7: Already <span class="keyword">exists</span></span><br><span class="line">Digest: sha256:d58e752213a51785838f9eed2b7a498ffa1cb3aa7f946dda11af39286c3db9a9</span><br><span class="line">Status: Downloaded newer image <span class="keyword">for</span> hello-world:latest</span><br><span class="line">docker.io/library/hello-world:latest</span><br></pre></td></tr></table></figure></li><li><p>docker run hello-world</p><figure class="highlight perl"><figcaption><span>docker run hello-world</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">Hello from Docker!</span><br><span class="line">This message shows that your installation appears to be working correctly.</span><br><span class="line"></span><br><span class="line">To generate this message, Docker took the following steps:</span><br><span class="line"> <span class="number">1</span>. The Docker client contacted the Docker daemon.</span><br><span class="line"> <span class="number">2</span>. The Docker daemon pulled the <span class="string">"hello-world"</span> image from the Docker Hub.</span><br><span class="line">    (amd64)</span><br><span class="line"> <span class="number">3</span>. The Docker daemon created a new container from that image which runs the</span><br><span class="line">    executable that produces the output you are currently reading.</span><br><span class="line"> <span class="number">4</span>. The Docker daemon streamed that output to the Docker client, which sent it</span><br><span class="line">    to your terminal.</span><br><span class="line"></span><br><span class="line">To try something more ambitious, you can run an Ubuntu container with:</span><br><span class="line"> $ docker run -it ubuntu bash</span><br><span class="line"></span><br><span class="line">Share images, automate workflows, <span class="keyword">and</span> more with a free Docker ID:</span><br><span class="line"> https:<span class="regexp">//hub</span>.docker.com/</span><br><span class="line"></span><br><span class="line">For more examples <span class="keyword">and</span> ideas, visit:</span><br><span class="line"> https:<span class="regexp">//docs</span>.docker.com/get-started/</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure></li></ol><blockquote><p>Reference<br><a href="https://www.docker.com/">Docker Official Website</a><br><a href="https://docs.docker.com/">Docker Docs</a><br><a href="https://hub.docker.com/">Docker Hub</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Docker is a container technology for Linux that allows a developer to package up an application with all of the parts it needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://kjs927.github.io/categories/Tech/"/>
+    
+      <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
+    
+    
+      <category term="Docker" scheme="https://kjs927.github.io/tags/Docker/"/>
+    
+      <category term="Ubuntu" scheme="https://kjs927.github.io/tags/Ubuntu/"/>
+    
+  </entry>
   
   <entry>
     <title>Building a Spring Boot Application Using Intellij IDEA</title>
@@ -97,11 +126,11 @@
       <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
     
     
+      <category term="Ubuntu" scheme="https://kjs927.github.io/tags/Ubuntu/"/>
+    
       <category term="Node.js" scheme="https://kjs927.github.io/tags/Node-js/"/>
     
       <category term="React" scheme="https://kjs927.github.io/tags/React/"/>
-    
-      <category term="Ubuntu" scheme="https://kjs927.github.io/tags/Ubuntu/"/>
     
   </entry>
   
@@ -128,9 +157,9 @@
       <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Node.js" scheme="https://kjs927.github.io/tags/Node-js/"/>
-    
       <category term="Ubuntu" scheme="https://kjs927.github.io/tags/Ubuntu/"/>
+    
+      <category term="Node.js" scheme="https://kjs927.github.io/tags/Node-js/"/>
     
   </entry>
   
@@ -155,6 +184,8 @@
       <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
     
     
+      <category term="Node.js" scheme="https://kjs927.github.io/tags/Node-js/"/>
+    
       <category term="roadmap" scheme="https://kjs927.github.io/tags/roadmap/"/>
     
       <category term="study-plan" scheme="https://kjs927.github.io/tags/study-plan/"/>
@@ -162,8 +193,6 @@
       <category term="career-guide" scheme="https://kjs927.github.io/tags/career-guide/"/>
     
       <category term="Go" scheme="https://kjs927.github.io/tags/Go/"/>
-    
-      <category term="Node.js" scheme="https://kjs927.github.io/tags/Node-js/"/>
     
       <category term=".Net" scheme="https://kjs927.github.io/tags/Net/"/>
     
