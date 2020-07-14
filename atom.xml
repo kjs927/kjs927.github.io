@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kjs927.github.io/"/>
-  <updated>2020-07-14T13:33:31.928Z</updated>
+  <updated>2020-07-14T18:01:06.937Z</updated>
   <id>https://kjs927.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>What&#39;s the difference between CI and CD (and the other CD)?</title>
+    <link href="https://kjs927.github.io/posts/54671/"/>
+    <id>https://kjs927.github.io/posts/54671/</id>
+    <published>2020-07-14T17:12:00.000Z</published>
+    <updated>2020-07-14T18:01:06.937Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>Abstract from RedHat [<a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">What is CI/CD?</a>]</p><blockquote><ul><li><strong>Continuous integration</strong> (CI) helps developers merge their code changes back to a shared branch, or “trunk,” more frequently—sometimes even daily. If automated testing discovers a conflict between new and existing code, CI makes it easier to fix those bugs quickly and often.</li></ul></blockquote><blockquote><ul><li><strong>Continuous delivery</strong> (CD), the goal of continuous delivery is to have a codebase that is always ready for deployment to a production environment.</li></ul></blockquote><blockquote><ul><li><strong>Continuous deployment</strong> (CD), as an extension of continuous delivery, continuous deployment means that a developer’s change to a cloud application could go live within minutes of writing it (assuming it passes automated testing). This makes it much easier to continuously receive and incorporate user feedback.</li></ul></blockquote></li></ul><a id="more"></a><p>  &nbsp;</p><ul><li><p>Relationship Diagram</p><ol><li><p>Red Hat, Inc.<br><img src="https://i.imgur.com/nxp9eYo.png" alt=""><br>Source: <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">https://www.redhat.com/en/topics/devops/what-is-ci-cd</a></p></li><li><p><a href="https://www.codeproject.com/script/Membership/View.aspx?mid=8453050">Code Maze</a><br><img src="https://i.imgur.com/cAbheqM.png" alt=""><br>Source: <a href="https://www.codeproject.com/articles/1078439/what-is-continuous-integration-and-why-do-you-need">https://www.codeproject.com/articles/1078439/what-is-continuous-integration-and-why-do-you-need</a></p></li></ol></li></ul><blockquote><p>Reference<br><a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">https://www.redhat.com/en/topics/devops/what-is-ci-cd</a><br><a href="http://devopstechie.com/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/">http://devopstechie.com/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abstract from RedHat [&lt;a href=&quot;https://www.redhat.com/en/topics/devops/what-is-ci-cd&quot;&gt;What is CI/CD?&lt;/a&gt;]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous integration&lt;/strong&gt; (CI) helps developers merge their code changes back to a shared branch, or “trunk,” more frequently—sometimes even daily. If automated testing discovers a conflict between new and existing code, CI makes it easier to fix those bugs quickly and often.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous delivery&lt;/strong&gt; (CD), the goal of continuous delivery is to have a codebase that is always ready for deployment to a production environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous deployment&lt;/strong&gt; (CD), as an extension of continuous delivery, continuous deployment means that a developer’s change to a cloud application could go live within minutes of writing it (assuming it passes automated testing). This makes it much easier to continuously receive and incorporate user feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://kjs927.github.io/categories/Tech/"/>
+    
+      <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
+    
+    
+      <category term="CI/CD" scheme="https://kjs927.github.io/tags/CI-CD/"/>
+    
+      <category term="DevOps" scheme="https://kjs927.github.io/tags/DevOps/"/>
+    
+  </entry>
   
   <entry>
     <title>Get Started with Docker on Ubuntu 20.04 LTS</title>
@@ -39,9 +84,9 @@
       <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Docker" scheme="https://kjs927.github.io/tags/Docker/"/>
-    
       <category term="Ubuntu" scheme="https://kjs927.github.io/tags/Ubuntu/"/>
+    
+      <category term="Docker" scheme="https://kjs927.github.io/tags/Docker/"/>
     
   </entry>
   
