@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kjs927.github.io/"/>
-  <updated>2020-07-24T15:12:18.807Z</updated>
+  <updated>2020-07-26T15:10:29.866Z</updated>
   <id>https://kjs927.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 4.2 - Microservices (Single instance)</title>
+    <link href="https://kjs927.github.io/posts/58104/"/>
+    <id>https://kjs927.github.io/posts/58104/</id>
+    <published>2020-07-26T14:25:00.000Z</published>
+    <updated>2020-07-26T15:10:29.866Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>Build Project</li><li>Dockerfile</li></ul></blockquote><a id="more"></a><ol><li><p>Build Project<br>(1). revise <code>Jenkinsfile</code>, commit and push<br> <img src="https://i.imgur.com/1WqNnDG.png" alt=""><br> <img src="https://i.imgur.com/Cgn40Cy.png" alt=""><br> <img src="https://i.imgur.com/CltigGg.png" alt=""><br>(2). build test by maven<br> <img src="https://i.imgur.com/Z9Ri2Vv.png" alt=""><br> <img src="https://i.imgur.com/mUU2Olu.png" alt=""></p><ul><li><p>microservice: eureka<br><img src="https://i.imgur.com/NmuTNE4.png" alt=""><br><img src="https://i.imgur.com/fMqQ8Iz.png" alt=""><br><img src="https://i.imgur.com/bEzPdUL.png" alt=""></p></li><li><p>microservices: provider-ticket &amp; consumer-user<br><img src="https://i.imgur.com/STf75SN.png" alt=""><br><img src="https://i.imgur.com/lHpdbG1.png" alt=""></p></li><li><p>done!<br><img src="https://i.imgur.com/GI5MGcE.png" alt=""></p></li></ul></li><li><p>Dockerfile<br>(1). add build plugin<br> <img src="https://i.imgur.com/uCJt7JL.png" alt=""></p><ul><li>revise <code>pom.xml</code><br><img src="https://i.imgur.com/3hI5aH4.png" alt=""></li><li>dockerfile arg<br><img src="https://i.imgur.com/UOOMGM4.png" alt=""></li></ul><p>(2). add <code>Dockerfile</code><br> <img src="https://i.imgur.com/izq1X56.png" alt=""><br>(3). revise <code>Jenkinsfile</code>, commit and push<br> <img src="https://i.imgur.com/thD6u1p.png" alt=""><br> <img src="https://i.imgur.com/hVRIO3F.png" alt=""><br> <img src="https://i.imgur.com/X6IeudU.png" alt=""><br>(4). build test<br> <img src="https://i.imgur.com/EK3f2Tt.png" alt=""><br> <img src="https://i.imgur.com/yUZFLtK.png" alt=""><br>(5). repeat step (2) to (4) on the other microservices<br> <img src="https://i.imgur.com/iSmrihE.png" alt=""><br> <img src="https://i.imgur.com/OWGXvSK.png" alt=""><br> <img src="https://i.imgur.com/EuuVujA.png" alt=""><br> <img src="https://i.imgur.com/hheibja.png" alt=""><br> <img src="https://i.imgur.com/uPMgEa5.png" alt=""><br> <img src="https://i.imgur.com/iWv3hqd.png" alt=""><br>(6). done!<br> <img src="https://i.imgur.com/IF0MHfx.png" alt=""></p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Build Project&lt;/li&gt;
+&lt;li&gt;Dockerfile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://kjs927.github.io/categories/Tech/"/>
+    
+      <category term="Notes" scheme="https://kjs927.github.io/categories/Tech/Notes/"/>
+    
+    
+      <category term="CI/CD" scheme="https://kjs927.github.io/tags/CI-CD/"/>
+    
+      <category term="Jenkins" scheme="https://kjs927.github.io/tags/Jenkins/"/>
+    
+      <category term="Gitlab" scheme="https://kjs927.github.io/tags/Gitlab/"/>
+    
+      <category term="Docker" scheme="https://kjs927.github.io/tags/Docker/"/>
+    
+      <category term="IDEA" scheme="https://kjs927.github.io/tags/IDEA/"/>
+    
+      <category term="eureka" scheme="https://kjs927.github.io/tags/eureka/"/>
+    
+  </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 4.1 - Microservices (Single instance)</title>
