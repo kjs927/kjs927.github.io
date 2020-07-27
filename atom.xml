@@ -46,9 +46,9 @@
     
       <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
     
-      <category term="Docker" scheme="https://sanstty27.github.io/tags/Docker/"/>
-    
       <category term="Gitlab" scheme="https://sanstty27.github.io/tags/Gitlab/"/>
+    
+      <category term="Docker" scheme="https://sanstty27.github.io/tags/Docker/"/>
     
       <category term="IDEA" scheme="https://sanstty27.github.io/tags/IDEA/"/>
     
@@ -472,11 +472,11 @@
       <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
     
     
+      <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
+    
       <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
     
       <category term="React" scheme="https://sanstty27.github.io/tags/React/"/>
-    
-      <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
     
   </entry>
   
@@ -503,9 +503,9 @@
       <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
-    
       <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
+    
+      <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
     
   </entry>
   
