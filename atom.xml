@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://sanstty27.github.io/"/>
+  <link href="https://sanstwy27.github.io/"/>
   <updated>2020-07-26T15:10:29.866Z</updated>
-  <id>https://sanstty27.github.io/</id>
+  <id>https://sanstwy27.github.io/</id>
   
   <author>
     <name>Sans Ke</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 4.2 - Microservices (Single instance)</title>
-    <link href="https://sanstty27.github.io/posts/58104/"/>
-    <id>https://sanstty27.github.io/posts/58104/</id>
+    <link href="https://sanstwy27.github.io/posts/58104/"/>
+    <id>https://sanstwy27.github.io/posts/58104/</id>
     <published>2020-07-26T14:25:00.000Z</published>
     <updated>2020-07-26T15:10:29.866Z</updated>
     
@@ -37,29 +37,29 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
-      <category term="Gitlab" scheme="https://sanstty27.github.io/tags/Gitlab/"/>
+      <category term="Gitlab" scheme="https://sanstwy27.github.io/tags/Gitlab/"/>
     
-      <category term="Docker" scheme="https://sanstty27.github.io/tags/Docker/"/>
+      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
     
-      <category term="IDEA" scheme="https://sanstty27.github.io/tags/IDEA/"/>
+      <category term="Docker" scheme="https://sanstwy27.github.io/tags/Docker/"/>
     
-      <category term="eureka" scheme="https://sanstty27.github.io/tags/eureka/"/>
+      <category term="eureka" scheme="https://sanstwy27.github.io/tags/eureka/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 4.1 - Microservices (Single instance)</title>
-    <link href="https://sanstty27.github.io/posts/5735/"/>
-    <id>https://sanstty27.github.io/posts/5735/</id>
+    <link href="https://sanstwy27.github.io/posts/5735/"/>
+    <id>https://sanstwy27.github.io/posts/5735/</id>
     <published>2020-07-24T14:07:00.000Z</published>
     <updated>2020-07-24T15:12:18.807Z</updated>
     
@@ -78,27 +78,27 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
-      <category term="Gitlab" scheme="https://sanstty27.github.io/tags/Gitlab/"/>
+      <category term="Gitlab" scheme="https://sanstwy27.github.io/tags/Gitlab/"/>
     
-      <category term="IDEA" scheme="https://sanstty27.github.io/tags/IDEA/"/>
+      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
     
-      <category term="Eureka" scheme="https://sanstty27.github.io/tags/Eureka/"/>
+      <category term="Eureka" scheme="https://sanstwy27.github.io/tags/Eureka/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 3 - Private Repository</title>
-    <link href="https://sanstty27.github.io/posts/45235/"/>
-    <id>https://sanstty27.github.io/posts/45235/</id>
+    <link href="https://sanstwy27.github.io/posts/45235/"/>
+    <id>https://sanstwy27.github.io/posts/45235/</id>
     <published>2020-07-23T13:07:00.000Z</published>
     <updated>2020-07-23T14:37:03.399Z</updated>
     
@@ -116,25 +116,25 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Docker" scheme="https://sanstty27.github.io/tags/Docker/"/>
+      <category term="Docker" scheme="https://sanstwy27.github.io/tags/Docker/"/>
     
-      <category term="Harbor" scheme="https://sanstty27.github.io/tags/Harbor/"/>
+      <category term="Harbor" scheme="https://sanstwy27.github.io/tags/Harbor/"/>
     
-      <category term="Private Repository" scheme="https://sanstty27.github.io/tags/Private-Repository/"/>
+      <category term="Private Repository" scheme="https://sanstwy27.github.io/tags/Private-Repository/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 2.5 - Jenkins (Another Plugings)</title>
-    <link href="https://sanstty27.github.io/posts/62559/"/>
-    <id>https://sanstty27.github.io/posts/62559/</id>
+    <link href="https://sanstwy27.github.io/posts/62559/"/>
+    <id>https://sanstwy27.github.io/posts/62559/</id>
     <published>2020-07-21T13:53:00.000Z</published>
     <updated>2020-07-21T16:00:57.345Z</updated>
     
@@ -152,21 +152,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 2.4 - Jenkins (Triggers)</title>
-    <link href="https://sanstty27.github.io/posts/4532/"/>
-    <id>https://sanstty27.github.io/posts/4532/</id>
+    <link href="https://sanstwy27.github.io/posts/4532/"/>
+    <id>https://sanstwy27.github.io/posts/4532/</id>
     <published>2020-07-20T10:21:00.000Z</published>
     <updated>2020-07-20T12:15:25.032Z</updated>
     
@@ -188,21 +188,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 2.3 - Jenkins (Pull, Build and Deploy)</title>
-    <link href="https://sanstty27.github.io/posts/49853/"/>
-    <id>https://sanstty27.github.io/posts/49853/</id>
+    <link href="https://sanstwy27.github.io/posts/49853/"/>
+    <id>https://sanstwy27.github.io/posts/49853/</id>
     <published>2020-07-19T13:00:00.000Z</published>
     <updated>2020-07-20T10:21:24.922Z</updated>
     
@@ -217,21 +217,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 2.2 - Jenkins (Pull, Build and Deploy)</title>
-    <link href="https://sanstty27.github.io/posts/8060/"/>
-    <id>https://sanstty27.github.io/posts/8060/</id>
+    <link href="https://sanstwy27.github.io/posts/8060/"/>
+    <id>https://sanstwy27.github.io/posts/8060/</id>
     <published>2020-07-18T12:36:00.000Z</published>
     <updated>2020-07-18T14:45:51.171Z</updated>
     
@@ -246,21 +246,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 2.1 - Jenkins (Pull Project from Gitlab)</title>
-    <link href="https://sanstty27.github.io/posts/34626/"/>
-    <id>https://sanstty27.github.io/posts/34626/</id>
+    <link href="https://sanstwy27.github.io/posts/34626/"/>
+    <id>https://sanstwy27.github.io/posts/34626/</id>
     <published>2020-07-17T11:48:00.000Z</published>
     <updated>2020-07-18T14:35:58.479Z</updated>
     
@@ -275,23 +275,23 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Jenkins" scheme="https://sanstty27.github.io/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
-      <category term="Gitlab" scheme="https://sanstty27.github.io/tags/Gitlab/"/>
+      <category term="Gitlab" scheme="https://sanstwy27.github.io/tags/Gitlab/"/>
     
   </entry>
   
   <entry>
     <title>Building CI/CD Pipelines with IDEA, Gitlab, Jenkins and Kubernetes - Topic 1 - Gitlab</title>
-    <link href="https://sanstty27.github.io/posts/38087/"/>
-    <id>https://sanstty27.github.io/posts/38087/</id>
+    <link href="https://sanstwy27.github.io/posts/38087/"/>
+    <id>https://sanstwy27.github.io/posts/38087/</id>
     <published>2020-07-15T14:00:00.000Z</published>
     <updated>2020-07-18T12:39:47.298Z</updated>
     
@@ -306,21 +306,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="Gitlab" scheme="https://sanstty27.github.io/tags/Gitlab/"/>
+      <category term="Gitlab" scheme="https://sanstwy27.github.io/tags/Gitlab/"/>
     
   </entry>
   
   <entry>
     <title>What&#39;s the Difference Between CI and CD (and the Other CD)?</title>
-    <link href="https://sanstty27.github.io/posts/54671/"/>
-    <id>https://sanstty27.github.io/posts/54671/</id>
+    <link href="https://sanstwy27.github.io/posts/54671/"/>
+    <id>https://sanstwy27.github.io/posts/54671/</id>
     <published>2020-07-14T17:12:00.000Z</published>
     <updated>2020-07-14T18:17:50.463Z</updated>
     
@@ -351,21 +351,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="CI/CD" scheme="https://sanstty27.github.io/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://sanstwy27.github.io/tags/CI-CD/"/>
     
-      <category term="DevOps" scheme="https://sanstty27.github.io/tags/DevOps/"/>
+      <category term="DevOps" scheme="https://sanstwy27.github.io/tags/DevOps/"/>
     
   </entry>
   
   <entry>
     <title>Get Started with Docker on Ubuntu 20.04 LTS</title>
-    <link href="https://sanstty27.github.io/posts/23065/"/>
-    <id>https://sanstty27.github.io/posts/23065/</id>
+    <link href="https://sanstwy27.github.io/posts/23065/"/>
+    <id>https://sanstwy27.github.io/posts/23065/</id>
     <published>2020-07-14T08:57:00.000Z</published>
     <updated>2020-07-14T13:33:31.928Z</updated>
     
@@ -380,21 +380,21 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Docker" scheme="https://sanstty27.github.io/tags/Docker/"/>
+      <category term="Docker" scheme="https://sanstwy27.github.io/tags/Docker/"/>
     
-      <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="https://sanstwy27.github.io/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Building a Spring Boot Application Using Intellij IDEA</title>
-    <link href="https://sanstty27.github.io/posts/39487/"/>
-    <id>https://sanstty27.github.io/posts/39487/</id>
+    <link href="https://sanstwy27.github.io/posts/39487/"/>
+    <id>https://sanstwy27.github.io/posts/39487/</id>
     <published>2020-07-13T21:37:00.000Z</published>
     <updated>2020-07-14T13:36:04.358Z</updated>
     
@@ -409,23 +409,23 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Java" scheme="https://sanstty27.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://sanstwy27.github.io/tags/Java/"/>
     
-      <category term="Spring Boot" scheme="https://sanstty27.github.io/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://sanstwy27.github.io/tags/Spring-Boot/"/>
     
-      <category term="Maven" scheme="https://sanstty27.github.io/tags/Maven/"/>
+      <category term="Maven" scheme="https://sanstwy27.github.io/tags/Maven/"/>
     
   </entry>
   
   <entry>
     <title>Access Localhost from Anywhere with Ngrok</title>
-    <link href="https://sanstty27.github.io/posts/25633/"/>
-    <id>https://sanstty27.github.io/posts/25633/</id>
+    <link href="https://sanstwy27.github.io/posts/25633/"/>
+    <id>https://sanstwy27.github.io/posts/25633/</id>
     <published>2020-07-13T14:08:00.000Z</published>
     <updated>2020-07-13T22:57:37.176Z</updated>
     
@@ -440,23 +440,23 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="ngrok" scheme="https://sanstty27.github.io/tags/ngrok/"/>
+      <category term="ngrok" scheme="https://sanstwy27.github.io/tags/ngrok/"/>
     
   </entry>
   
   <entry>
     <title>Installation of React on Ubuntu 20.04 LTS</title>
-    <link href="https://sanstty27.github.io/posts/39092/"/>
-    <id>https://sanstty27.github.io/posts/39092/</id>
+    <link href="https://sanstwy27.github.io/posts/39092/"/>
+    <id>https://sanstwy27.github.io/posts/39092/</id>
     <published>2020-07-13T08:39:00.000Z</published>
-    <updated>2020-07-27T11:07:43.917Z</updated>
+    <updated>2020-07-28T13:19:34.452Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>A JavaScript library for building user interfaces.</p></blockquote><a id="more"></a><ol><li><p><a href="https://sanstty27.github.io/posts/26977/">Install Node.js</a></p></li><li><p>sudo npm install -g create-react-app</p><figure class="highlight perl"><figcaption><span>sudo npm install -g create-react-app</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br></pre></td><td class="code"><pre><span class="line">/usr/bin/create-react-app -&gt; <span class="regexp">/usr/lib</span><span class="regexp">/node_modules/create</span>-react-app/index.js</span><br><span class="line">+ create-react-app@3.<span class="number">4.1</span></span><br><span class="line">added <span class="number">98</span> packages from <span class="number">46</span> contributors in <span class="number">21.192</span><span class="keyword">s</span></span><br><span class="line">webdev@webdev-VirtualBox:~$ npx create-react-app hello-app</span><br><span class="line"></span><br><span class="line">Creating a new React app in /home/webdev/hello-app.</span><br><span class="line"></span><br><span class="line">Installing packages. This might take a couple of minutes.</span><br><span class="line">Installing react, react-dom, <span class="keyword">and</span> react-scripts with cra-template...</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js@2.<span class="number">6.11</span> postinstall /home/webdev/hello-app/node_modules/babel-runtime/node_modules/core-js</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js@3.<span class="number">6.5</span> postinstall /home/webdev/hello-app/node_modules/core-js</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js-pure@3.<span class="number">6.5</span> postinstall /home/webdev/hello-app/node_modules/core-js-pure</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line">+ react@16.<span class="number">13.1</span></span><br><span class="line">+ cra-template@1.<span class="number">0</span>.<span class="number">3</span></span><br><span class="line">+ react-scripts@3.<span class="number">4.1</span></span><br><span class="line">+ react-dom@16.<span class="number">13.1</span></span><br><span class="line">added <span class="number">1602</span> packages from <span class="number">751</span> contributors <span class="keyword">and</span> audited <span class="number">1606</span> packages in <span class="number">191.88</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line">Git repo <span class="keyword">not</span> initialized Error: Command failed: git --version</span><br><span class="line">    at checkExecSyncError (child_process.js:<span class="number">630</span>:<span class="number">11</span>)</span><br><span class="line">    at execSync (child_process.js:<span class="number">666</span>:<span class="number">15</span>)</span><br><span class="line">    at tryGitInit (<span class="regexp">/home/webdev</span><span class="regexp">/hello-app/node</span>_modules/react-scripts/scripts/init.js:<span class="number">46</span>:<span class="number">5</span>)</span><br><span class="line">    at module.exports (<span class="regexp">/home/webdev</span><span class="regexp">/hello-app/node</span>_modules/react-scripts/scripts/init.js:<span class="number">266</span>:<span class="number">7</span>)</span><br><span class="line">    at [<span class="keyword">eval</span>]:<span class="number">3</span>:<span class="number">14</span></span><br><span class="line">    at Script.runInThisContext (vm.js:<span class="number">120</span>:<span class="number">20</span>)</span><br><span class="line">    at Object.runInThisContext (vm.js:<span class="number">311</span>:<span class="number">38</span>)</span><br><span class="line">    at Object.&lt;anonymous&gt; ([<span class="keyword">eval</span>]-wrapper:<span class="number">10</span>:<span class="number">26</span>)</span><br><span class="line">    at Module._compile (internal/modules/cjs/loader.js:<span class="number">1138</span>:<span class="number">30</span>)</span><br><span class="line">    at evalScript (internal/process/execution.js:<span class="number">94</span>:<span class="number">25</span>) &#123;</span><br><span class="line">  status: <span class="number">127</span>,</span><br><span class="line">  signal: null,</span><br><span class="line">  output: [ null, null, null ],</span><br><span class="line">  pid: <span class="number">11262</span>,</span><br><span class="line">  stdout: null,</span><br><span class="line">  stderr: null</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">Installing template dependencies using npm...</span><br><span class="line">npm WARN tsutils@3.<span class="number">17.1</span> requires a peer of typescript@&gt;=<span class="number">2.8</span>.<span class="number">0</span> || &gt;= <span class="number">3.2</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.3</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.4</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.5</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-beta || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-beta but none is installed. You must install peer dependencies yourself.</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/jest-haste-<span class="keyword">map</span>/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.<span class="number">1.2</span> (node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@2.<span class="number">1.2</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/webpack-dev-server/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/watchpack-chokidar2/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line"></span><br><span class="line">+ @testing-library/jest-dom@4.<span class="number">2.4</span></span><br><span class="line">+ @testing-library/react@9.<span class="number">5.0</span></span><br><span class="line">+ @testing-library/user-event@7.<span class="number">2.1</span></span><br><span class="line">added <span class="number">36</span> packages from <span class="number">57</span> contributors <span class="keyword">and</span> audited <span class="number">1642</span> packages in <span class="number">46.203</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line">Removing template <span class="keyword">package</span> using npm...</span><br><span class="line"></span><br><span class="line">npm WARN tsutils@3.<span class="number">17.1</span> requires a peer of typescript@&gt;=<span class="number">2.8</span>.<span class="number">0</span> || &gt;= <span class="number">3.2</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.3</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.4</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.5</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-beta || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-beta but none is installed. You must install peer dependencies yourself.</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.<span class="number">1.2</span> (node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@2.<span class="number">1.2</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/jest-haste-<span class="keyword">map</span>/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/watchpack-chokidar2/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/webpack-dev-server/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line"></span><br><span class="line">removed <span class="number">1</span> <span class="keyword">package</span> <span class="keyword">and</span> audited <span class="number">1641</span> packages in <span class="number">26.55</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">Success! Created hello-app at /home/webdev/hello-app</span><br><span class="line">Inside that directory, you can run several commands:</span><br><span class="line"></span><br><span class="line">  npm start</span><br><span class="line">    Starts the development server.</span><br><span class="line"></span><br><span class="line">  npm run build</span><br><span class="line">    Bundles the app into static files <span class="keyword">for</span> production.</span><br><span class="line"></span><br><span class="line">  npm test</span><br><span class="line">    Starts the test runner.</span><br><span class="line"></span><br><span class="line">  npm run eject</span><br><span class="line">    Removes this tool <span class="keyword">and</span> copies build dependencies, configuration files</span><br><span class="line">    <span class="keyword">and</span> scripts into the app directory. If you <span class="keyword">do</span> this, you can’t go back!</span><br><span class="line"></span><br><span class="line">We suggest that you begin by typing:</span><br><span class="line"></span><br><span class="line">  cd hello-app</span><br><span class="line">  npm start</span><br><span class="line"></span><br><span class="line">Happy hacking!</span><br><span class="line"></span><br></pre></td></tr></table></figure></li><li><p>cd hello-app; npm start</p><figure class="highlight perl"><figcaption><span>cd hello-app; npm start</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; hello-app@0.<span class="number">1.0</span> start /home/webdev/hello-app</span><br><span class="line">&gt; react-scripts start</span><br></pre></td></tr></table></figure><figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Starting the development server...</span><br></pre></td></tr></table></figure><figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Compiled successfully!</span><br><span class="line"></span><br><span class="line">You can now view hello-app in the browser.</span><br><span class="line"></span><br><span class="line">  Local:            http:<span class="regexp">//localhost</span>:<span class="number">3000</span></span><br><span class="line">  On Your Network:  http:<span class="regexp">//</span><span class="number">10.0</span>.<span class="number">2.15</span>:<span class="number">3000</span></span><br><span class="line"></span><br><span class="line">Note that the development build is <span class="keyword">not</span> optimized.</span><br><span class="line">To create a production build, <span class="keyword">use</span> npm run build.</span><br></pre></td></tr></table></figure></li><li><p>Done!<br><img src="https://i.imgur.com/wDLpNVW.png" alt=""></p></li></ol><blockquote><p>Reference:<br><a href="https://reactjs.org/">React Official Website</a><br><a href="https://medium.com/@DanielSayidi/fcd2c875885a">Install And Setup React App on Ubuntu 18.04.3 LTS</a><br><a href="https://railsware.com/blog/why-use-react/">Thumbnail</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>A JavaScript library for building user interfaces.</p></blockquote><a id="more"></a><ol><li><p><a href="https://sanstwy27.github.io/posts/26977/">Install Node.js</a></p></li><li><p>sudo npm install -g create-react-app</p><figure class="highlight perl"><figcaption><span>sudo npm install -g create-react-app</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br></pre></td><td class="code"><pre><span class="line">/usr/bin/create-react-app -&gt; <span class="regexp">/usr/lib</span><span class="regexp">/node_modules/create</span>-react-app/index.js</span><br><span class="line">+ create-react-app@3.<span class="number">4.1</span></span><br><span class="line">added <span class="number">98</span> packages from <span class="number">46</span> contributors in <span class="number">21.192</span><span class="keyword">s</span></span><br><span class="line">webdev@webdev-VirtualBox:~$ npx create-react-app hello-app</span><br><span class="line"></span><br><span class="line">Creating a new React app in /home/webdev/hello-app.</span><br><span class="line"></span><br><span class="line">Installing packages. This might take a couple of minutes.</span><br><span class="line">Installing react, react-dom, <span class="keyword">and</span> react-scripts with cra-template...</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js@2.<span class="number">6.11</span> postinstall /home/webdev/hello-app/node_modules/babel-runtime/node_modules/core-js</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js@3.<span class="number">6.5</span> postinstall /home/webdev/hello-app/node_modules/core-js</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; core-js-pure@3.<span class="number">6.5</span> postinstall /home/webdev/hello-app/node_modules/core-js-pure</span><br><span class="line">&gt; node -e <span class="string">"try&#123;require('./postinstall')&#125;catch(e)&#123;&#125;"</span></span><br><span class="line"></span><br><span class="line">+ react@16.<span class="number">13.1</span></span><br><span class="line">+ cra-template@1.<span class="number">0</span>.<span class="number">3</span></span><br><span class="line">+ react-scripts@3.<span class="number">4.1</span></span><br><span class="line">+ react-dom@16.<span class="number">13.1</span></span><br><span class="line">added <span class="number">1602</span> packages from <span class="number">751</span> contributors <span class="keyword">and</span> audited <span class="number">1606</span> packages in <span class="number">191.88</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line">Git repo <span class="keyword">not</span> initialized Error: Command failed: git --version</span><br><span class="line">    at checkExecSyncError (child_process.js:<span class="number">630</span>:<span class="number">11</span>)</span><br><span class="line">    at execSync (child_process.js:<span class="number">666</span>:<span class="number">15</span>)</span><br><span class="line">    at tryGitInit (<span class="regexp">/home/webdev</span><span class="regexp">/hello-app/node</span>_modules/react-scripts/scripts/init.js:<span class="number">46</span>:<span class="number">5</span>)</span><br><span class="line">    at module.exports (<span class="regexp">/home/webdev</span><span class="regexp">/hello-app/node</span>_modules/react-scripts/scripts/init.js:<span class="number">266</span>:<span class="number">7</span>)</span><br><span class="line">    at [<span class="keyword">eval</span>]:<span class="number">3</span>:<span class="number">14</span></span><br><span class="line">    at Script.runInThisContext (vm.js:<span class="number">120</span>:<span class="number">20</span>)</span><br><span class="line">    at Object.runInThisContext (vm.js:<span class="number">311</span>:<span class="number">38</span>)</span><br><span class="line">    at Object.&lt;anonymous&gt; ([<span class="keyword">eval</span>]-wrapper:<span class="number">10</span>:<span class="number">26</span>)</span><br><span class="line">    at Module._compile (internal/modules/cjs/loader.js:<span class="number">1138</span>:<span class="number">30</span>)</span><br><span class="line">    at evalScript (internal/process/execution.js:<span class="number">94</span>:<span class="number">25</span>) &#123;</span><br><span class="line">  status: <span class="number">127</span>,</span><br><span class="line">  signal: null,</span><br><span class="line">  output: [ null, null, null ],</span><br><span class="line">  pid: <span class="number">11262</span>,</span><br><span class="line">  stdout: null,</span><br><span class="line">  stderr: null</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">Installing template dependencies using npm...</span><br><span class="line">npm WARN tsutils@3.<span class="number">17.1</span> requires a peer of typescript@&gt;=<span class="number">2.8</span>.<span class="number">0</span> || &gt;= <span class="number">3.2</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.3</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.4</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.5</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-beta || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-beta but none is installed. You must install peer dependencies yourself.</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/jest-haste-<span class="keyword">map</span>/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.<span class="number">1.2</span> (node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@2.<span class="number">1.2</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/webpack-dev-server/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/watchpack-chokidar2/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line"></span><br><span class="line">+ @testing-library/jest-dom@4.<span class="number">2.4</span></span><br><span class="line">+ @testing-library/react@9.<span class="number">5.0</span></span><br><span class="line">+ @testing-library/user-event@7.<span class="number">2.1</span></span><br><span class="line">added <span class="number">36</span> packages from <span class="number">57</span> contributors <span class="keyword">and</span> audited <span class="number">1642</span> packages in <span class="number">46.203</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line">Removing template <span class="keyword">package</span> using npm...</span><br><span class="line"></span><br><span class="line">npm WARN tsutils@3.<span class="number">17.1</span> requires a peer of typescript@&gt;=<span class="number">2.8</span>.<span class="number">0</span> || &gt;= <span class="number">3.2</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.3</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.4</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.5</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.6</span>.<span class="number">0</span>-beta || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-dev || &gt;= <span class="number">3.7</span>.<span class="number">0</span>-beta but none is installed. You must install peer dependencies yourself.</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.<span class="number">1.2</span> (node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@2.<span class="number">1.2</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/jest-haste-<span class="keyword">map</span>/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/watchpack-chokidar2/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line">npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.<span class="number">2.13</span> (node_modules/webpack-dev-server/node_modules/fsevents):</span><br><span class="line">npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform <span class="keyword">for</span> fsevents@1.<span class="number">2.13</span>: wanted &#123;<span class="string">"os"</span>:<span class="string">"darwin"</span>,<span class="string">"arch"</span>:<span class="string">"any"</span>&#125; (current: &#123;<span class="string">"os"</span>:<span class="string">"linux"</span>,<span class="string">"arch"</span>:<span class="string">"x64"</span>&#125;)</span><br><span class="line"></span><br><span class="line">removed <span class="number">1</span> <span class="keyword">package</span> <span class="keyword">and</span> audited <span class="number">1641</span> packages in <span class="number">26.55</span><span class="keyword">s</span></span><br><span class="line"></span><br><span class="line"><span class="number">62</span> packages are looking <span class="keyword">for</span> funding</span><br><span class="line">  run <span class="string">`npm fund`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">found <span class="number">1</span> low severity vulnerability</span><br><span class="line">  run <span class="string">`npm audit fix`</span> to fix them, <span class="keyword">or</span> <span class="string">`npm audit`</span> <span class="keyword">for</span> details</span><br><span class="line"></span><br><span class="line">Success! Created hello-app at /home/webdev/hello-app</span><br><span class="line">Inside that directory, you can run several commands:</span><br><span class="line"></span><br><span class="line">  npm start</span><br><span class="line">    Starts the development server.</span><br><span class="line"></span><br><span class="line">  npm run build</span><br><span class="line">    Bundles the app into static files <span class="keyword">for</span> production.</span><br><span class="line"></span><br><span class="line">  npm test</span><br><span class="line">    Starts the test runner.</span><br><span class="line"></span><br><span class="line">  npm run eject</span><br><span class="line">    Removes this tool <span class="keyword">and</span> copies build dependencies, configuration files</span><br><span class="line">    <span class="keyword">and</span> scripts into the app directory. If you <span class="keyword">do</span> this, you can’t go back!</span><br><span class="line"></span><br><span class="line">We suggest that you begin by typing:</span><br><span class="line"></span><br><span class="line">  cd hello-app</span><br><span class="line">  npm start</span><br><span class="line"></span><br><span class="line">Happy hacking!</span><br><span class="line"></span><br></pre></td></tr></table></figure></li><li><p>cd hello-app; npm start</p><figure class="highlight perl"><figcaption><span>cd hello-app; npm start</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; hello-app@0.<span class="number">1.0</span> start /home/webdev/hello-app</span><br><span class="line">&gt; react-scripts start</span><br></pre></td></tr></table></figure><figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Starting the development server...</span><br></pre></td></tr></table></figure><figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Compiled successfully!</span><br><span class="line"></span><br><span class="line">You can now view hello-app in the browser.</span><br><span class="line"></span><br><span class="line">  Local:            http:<span class="regexp">//localhost</span>:<span class="number">3000</span></span><br><span class="line">  On Your Network:  http:<span class="regexp">//</span><span class="number">10.0</span>.<span class="number">2.15</span>:<span class="number">3000</span></span><br><span class="line"></span><br><span class="line">Note that the development build is <span class="keyword">not</span> optimized.</span><br><span class="line">To create a production build, <span class="keyword">use</span> npm run build.</span><br></pre></td></tr></table></figure></li><li><p>Done!<br><img src="https://i.imgur.com/wDLpNVW.png" alt=""></p></li></ol><blockquote><p>Reference:<br><a href="https://reactjs.org/">React Official Website</a><br><a href="https://medium.com/@DanielSayidi/fcd2c875885a">Install And Setup React App on Ubuntu 18.04.3 LTS</a><br><a href="https://railsware.com/blog/why-use-react/">Thumbnail</a></p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -467,23 +467,23 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
+      <category term="Node.js" scheme="https://sanstwy27.github.io/tags/Node-js/"/>
     
-      <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
+      <category term="React" scheme="https://sanstwy27.github.io/tags/React/"/>
     
-      <category term="React" scheme="https://sanstty27.github.io/tags/React/"/>
+      <category term="Ubuntu" scheme="https://sanstwy27.github.io/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Installation of Node.js on Ubuntu 20.04 LTS</title>
-    <link href="https://sanstty27.github.io/posts/26977/"/>
-    <id>https://sanstty27.github.io/posts/26977/</id>
+    <link href="https://sanstwy27.github.io/posts/26977/"/>
+    <id>https://sanstwy27.github.io/posts/26977/</id>
     <published>2020-07-13T01:25:00.000Z</published>
     <updated>2020-07-14T08:02:01.544Z</updated>
     
@@ -498,23 +498,23 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="Ubuntu" scheme="https://sanstty27.github.io/tags/Ubuntu/"/>
+      <category term="Node.js" scheme="https://sanstwy27.github.io/tags/Node-js/"/>
     
-      <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
+      <category term="Ubuntu" scheme="https://sanstwy27.github.io/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Awesome Roadmaps</title>
-    <link href="https://sanstty27.github.io/posts/35720/"/>
-    <id>https://sanstty27.github.io/posts/35720/</id>
+    <link href="https://sanstwy27.github.io/posts/35720/"/>
+    <id>https://sanstwy27.github.io/posts/35720/</id>
     <published>2020-07-09T11:55:00.000Z</published>
-    <updated>2020-07-27T11:07:43.787Z</updated>
+    <updated>2020-07-28T13:19:34.294Z</updated>
     
     <content type="html"><![CDATA[<p>A curated list of awesome software development roadmaps from <a href="https://github.com/orsanawwad/awesome-roadmaps">Awesome Roadmaps</a>.</p><a id="more"></a><hr><ul><li><h5 id="128279-Go-Developer-Roadmap"><a href="#128279-Go-Developer-Roadmap" class="headerlink" title="&#128279; Go Developer Roadmap"></a><a href="https://github.com/Alikhll/golang-developer-roadmap">&#128279;</a> Go Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/Fkxho3U.png">https://i.imgur.com/Fkxho3U.png</a></li></ul></li><li><h5 id="128279-Web-Developer"><a href="#128279-Web-Developer" class="headerlink" title="&#128279; Web Developer"></a><a href="https://github.com/kamranahmedse/developer-roadmap">&#128279;</a> Web Developer</h5><ul><li>Fundamental <a href="https://i.imgur.com/cyYgB35.png">https://i.imgur.com/cyYgB35.png</a></li><li>Front-End <a href="https://i.imgur.com/maAXepz.png">https://i.imgur.com/maAXepz.png</a></li><li>Back-End <a href="https://i.imgur.com/2b1bC59.png">https://i.imgur.com/2b1bC59.png</a></li><li>DevOps <a href="https://i.imgur.com/nLUWgNY.png">https://i.imgur.com/nLUWgNY.png</a></li></ul></li><li><h5 id="128279-Node-js-Developer-Roadmap"><a href="#128279-Node-js-Developer-Roadmap" class="headerlink" title="&#128279; Node.js Developer Roadmap"></a><a href="https://github.com/aliyr/Nodejs-Developer-Roadmap">&#128279;</a> Node.js Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/QYC6qX8.png">https://i.imgur.com/QYC6qX8.png</a></li></ul></li><li><h5 id="128279-Net-back-end-Roadmap"><a href="#128279-Net-back-end-Roadmap" class="headerlink" title="&#128279; .Net back-end Roadmap"></a><a href="https://github.com/saifaustcse/.net-developer-roadmap">&#128279;</a> .Net back-end Roadmap</h5><ul><li><a href="https://i.imgur.com/keHU3wb.png">https://i.imgur.com/keHU3wb.png</a></li></ul></li><li><h5 id="128279-ASP-NET-Core-Developer-Roadmap"><a href="#128279-ASP-NET-Core-Developer-Roadmap" class="headerlink" title="&#128279; ASP.NET Core Developer Roadmap"></a><a href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap">&#128279;</a> ASP.NET Core Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/bpwc6qD.png">https://i.imgur.com/bpwc6qD.png</a>)</li></ul></li><li><h5 id="128279-React-Developer-Roadmap"><a href="#128279-React-Developer-Roadmap" class="headerlink" title="&#128279; React Developer Roadmap"></a><a href="https://github.com/adam-golab/react-developer-roadmap">&#128279;</a> React Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/dohrVAz.png">https://i.imgur.com/dohrVAz.png</a></li></ul></li><li><h5 id="128279-Vue-Developer-Roadmap"><a href="#128279-Vue-Developer-Roadmap" class="headerlink" title="&#128279; Vue Developer Roadmap"></a><a href="https://github.com/marekbrainhub/vue-developer-roadmap">&#128279;</a> Vue Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/n8RDeCm.png">https://i.imgur.com/n8RDeCm.png</a></li></ul></li><li><h5 id="128279-Angular-Developer-Roadmap"><a href="#128279-Angular-Developer-Roadmap" class="headerlink" title="&#128279; Angular Developer Roadmap"></a><a href="https://github.com/sulco/angular-developer-roadmap">&#128279;</a> Angular Developer Roadmap</h5><ul><li>Fundamental <a href="https://i.imgur.com/XCHPJ90.png">https://i.imgur.com/XCHPJ90.png</a></li><li>HTML5 Front-end Developer <a href="https://i.imgur.com/9PzLmV0.png">https://i.imgur.com/9PzLmV0.png</a></li><li>UI Front-end Developer <a href="https://i.imgur.com/J30Y9WT.png">https://i.imgur.com/J30Y9WT.png</a></li><li>JS Front-end Developer <a href="https://i.imgur.com/Xo5UEP4.png">https://i.imgur.com/Xo5UEP4.png</a></li></ul></li><li><h5 id="128279-UI-UX-Designer-Roadmap"><a href="#128279-UI-UX-Designer-Roadmap" class="headerlink" title="&#128279; UI/UX Designer Roadmap"></a><a href="https://github.com/togiberlin/ui-ux-designer-roadmap">&#128279;</a> UI/UX Designer Roadmap</h5><ul><li>Fundamental <a href="https://i.imgur.com/im4DE00.png">https://i.imgur.com/im4DE00.png</a></li><li>UI Design Roadmap <a href="https://i.imgur.com/AdcemaB.png">https://i.imgur.com/AdcemaB.png</a></li><li>UX Design Roadmap <a href="https://i.imgur.com/qs02z49.png">https://i.imgur.com/qs02z49.png</a></li></ul></li><li><h5 id="128279-Game-Developer-Roadmap"><a href="#128279-Game-Developer-Roadmap" class="headerlink" title="&#128279; Game Developer Roadmap"></a><a href="https://github.com/utilForever/game-developer-roadmap">&#128279;</a> Game Developer Roadmap</h5><ul><li>Fundamental <a href="https://i.imgur.com/CIPoYEy.png">https://i.imgur.com/CIPoYEy.png</a></li><li>Game Client Roadmap <a href="https://i.imgur.com/a8HZU6D.png">https://i.imgur.com/a8HZU6D.png</a></li><li>Game Server Roadmap <a href="https://i.imgur.com/YSaWWBQ.png">https://i.imgur.com/YSaWWBQ.png</a></li><li>Game Tester Roadmap <a href="https://i.imgur.com/e8lEBm3.png">https://i.imgur.com/e8lEBm3.png</a></li></ul></li><li><h5 id="128279-Mobile-Developer-Roadmap"><a href="#128279-Mobile-Developer-Roadmap" class="headerlink" title="&#128279; Mobile Developer Roadmap"></a><a href="https://github.com/godrm/mobile-developer-roadmap">&#128279;</a> Mobile Developer Roadmap</h5><ul><li>Fundamental <a href="https://i.imgur.com/tOFs37N.png">https://i.imgur.com/tOFs37N.png</a></li><li>iOS Developer Roadmap<ul><li><a href="https://i.imgur.com/HEqVq8T.png">https://i.imgur.com/HEqVq8T.png</a></li><li><a href="https://i.imgur.com/2LCQ5n1.png">https://i.imgur.com/2LCQ5n1.png</a> <a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap">&#128279;</a></li></ul></li><li>Swift Developer Roadmap <a href="https://i.imgur.com/uZLiBrf.png">https://i.imgur.com/uZLiBrf.png</a></li></ul></li><li><h5 id="128279-Android-Developer-Roadmap"><a href="#128279-Android-Developer-Roadmap" class="headerlink" title="&#128279; Android Developer Roadmap"></a><a href="https://github.com/mobile-roadmap/android-developer-roadmap">&#128279;</a> Android Developer Roadmap</h5><ul><li><a href="https://i.imgur.com/XaIAHcC.png">https://i.imgur.com/XaIAHcC.png</a></li></ul></li><li><h5 id="128279-Data-Scientist-Roadmap"><a href="#128279-Data-Scientist-Roadmap" class="headerlink" title="&#128279; Data Scientist Roadmap"></a><a href="https://github.com/MrMimic/data-scientist-roadmap">&#128279;</a> Data Scientist Roadmap</h5><ul><li><a href="https://i.imgur.com/tgLJFWV.png">https://i.imgur.com/tgLJFWV.png</a></li></ul></li><li><h5 id="128279-Software-Architect-Roadmap"><a href="#128279-Software-Architect-Roadmap" class="headerlink" title="&#128279; Software Architect Roadmap"></a><a href="https://github.com/AlaaAttya/software-architect-roadmap">&#128279;</a> Software Architect Roadmap</h5><ul><li><a href="https://i.imgur.com/Lxj6xkn.png">https://i.imgur.com/Lxj6xkn.png</a></li></ul></li><li><h5 id="128279-Software-Quality-Assurance-Roadmap"><a href="#128279-Software-Quality-Assurance-Roadmap" class="headerlink" title="&#128279; Software Quality Assurance Roadmap"></a><a href="https://github.com/anas-qa/Quality-Assurance-Road-Map">&#128279;</a> Software Quality Assurance Roadmap</h5><ul><li><a href="https://i.imgur.com/6gbsee2.png">https://i.imgur.com/6gbsee2.png</a></li></ul></li><li><h5 id="128279-Deep-Learning-Papers-Reading-Roadmap"><a href="#128279-Deep-Learning-Papers-Reading-Roadmap" class="headerlink" title="&#128279; Deep Learning Papers Reading Roadmap"></a><a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap">&#128279;</a> Deep Learning Papers Reading Roadmap</h5></li><li><h5 id="128279-Hacker-Roadmap"><a href="#128279-Hacker-Roadmap" class="headerlink" title="&#128279; Hacker Roadmap"></a><a href="https://github.com/Sundowndev/hacker-roadmap">&#128279;</a> Hacker Roadmap</h5></li><li><h5 id="128279-Coding-Interview-University"><a href="#128279-Coding-Interview-University" class="headerlink" title="&#128279; Coding Interview University"></a><a href="https://github.com/jwasham/coding-interview-university">&#128279;</a> Coding Interview University</h5></li></ul><p>&nbsp;</p><h4 id="Reference-Awesome-Roadmaps"><a href="#Reference-Awesome-Roadmaps" class="headerlink" title="[Reference] Awesome Roadmaps"></a>[Reference] Awesome Roadmaps</h4><p><a href="https://github.com/orsanawwad/awesome-roadmaps">https://github.com/orsanawwad/awesome-roadmaps</a></p>]]></content>
     
@@ -525,55 +525,55 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Notes" scheme="https://sanstty27.github.io/categories/Tech/Notes/"/>
+      <category term="Notes" scheme="https://sanstwy27.github.io/categories/Tech/Notes/"/>
     
     
-      <category term="roadmap" scheme="https://sanstty27.github.io/tags/roadmap/"/>
+      <category term="roadmap" scheme="https://sanstwy27.github.io/tags/roadmap/"/>
     
-      <category term="study-plan" scheme="https://sanstty27.github.io/tags/study-plan/"/>
+      <category term="study-plan" scheme="https://sanstwy27.github.io/tags/study-plan/"/>
     
-      <category term="career-guide" scheme="https://sanstty27.github.io/tags/career-guide/"/>
+      <category term="career-guide" scheme="https://sanstwy27.github.io/tags/career-guide/"/>
     
-      <category term="Go" scheme="https://sanstty27.github.io/tags/Go/"/>
+      <category term="Go" scheme="https://sanstwy27.github.io/tags/Go/"/>
     
-      <category term="Node.js" scheme="https://sanstty27.github.io/tags/Node-js/"/>
+      <category term="Node.js" scheme="https://sanstwy27.github.io/tags/Node-js/"/>
     
-      <category term=".Net" scheme="https://sanstty27.github.io/tags/Net/"/>
+      <category term=".Net" scheme="https://sanstwy27.github.io/tags/Net/"/>
     
-      <category term="React" scheme="https://sanstty27.github.io/tags/React/"/>
+      <category term="React" scheme="https://sanstwy27.github.io/tags/React/"/>
     
-      <category term="Vue" scheme="https://sanstty27.github.io/tags/Vue/"/>
+      <category term="Vue" scheme="https://sanstwy27.github.io/tags/Vue/"/>
     
-      <category term="Angular" scheme="https://sanstty27.github.io/tags/Angular/"/>
+      <category term="Angular" scheme="https://sanstwy27.github.io/tags/Angular/"/>
     
-      <category term="UI/UX" scheme="https://sanstty27.github.io/tags/UI-UX/"/>
+      <category term="UI/UX" scheme="https://sanstwy27.github.io/tags/UI-UX/"/>
     
-      <category term="Game Developer" scheme="https://sanstty27.github.io/tags/Game-Developer/"/>
+      <category term="Game Developer" scheme="https://sanstwy27.github.io/tags/Game-Developer/"/>
     
-      <category term="Mobile Developer" scheme="https://sanstty27.github.io/tags/Mobile-Developer/"/>
+      <category term="Mobile Developer" scheme="https://sanstwy27.github.io/tags/Mobile-Developer/"/>
     
-      <category term="Android Developer" scheme="https://sanstty27.github.io/tags/Android-Developer/"/>
+      <category term="Android Developer" scheme="https://sanstwy27.github.io/tags/Android-Developer/"/>
     
-      <category term="Data Scientist" scheme="https://sanstty27.github.io/tags/Data-Scientist/"/>
+      <category term="Data Scientist" scheme="https://sanstwy27.github.io/tags/Data-Scientist/"/>
     
-      <category term="Software Architect" scheme="https://sanstty27.github.io/tags/Software-Architect/"/>
+      <category term="Software Architect" scheme="https://sanstwy27.github.io/tags/Software-Architect/"/>
     
-      <category term="Software QA" scheme="https://sanstty27.github.io/tags/Software-QA/"/>
+      <category term="Software QA" scheme="https://sanstwy27.github.io/tags/Software-QA/"/>
     
-      <category term="Deep Learning" scheme="https://sanstty27.github.io/tags/Deep-Learning/"/>
+      <category term="Deep Learning" scheme="https://sanstwy27.github.io/tags/Deep-Learning/"/>
     
-      <category term="Hacker" scheme="https://sanstty27.github.io/tags/Hacker/"/>
+      <category term="Hacker" scheme="https://sanstwy27.github.io/tags/Hacker/"/>
     
-      <category term="Web Developer" scheme="https://sanstty27.github.io/tags/Web-Developer/"/>
+      <category term="Web Developer" scheme="https://sanstwy27.github.io/tags/Web-Developer/"/>
     
   </entry>
   
   <entry>
     <title>Online Markdown Editor</title>
-    <link href="https://sanstty27.github.io/posts/63097/"/>
-    <id>https://sanstty27.github.io/posts/63097/</id>
+    <link href="https://sanstwy27.github.io/posts/63097/"/>
+    <id>https://sanstwy27.github.io/posts/63097/</id>
     <published>2020-07-08T08:38:00.000Z</published>
     <updated>2020-07-12T16:34:43.686Z</updated>
     
@@ -590,12 +590,12 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://sanstty27.github.io/categories/Tech/"/>
+      <category term="Tech" scheme="https://sanstwy27.github.io/categories/Tech/"/>
     
-      <category term="Tools" scheme="https://sanstty27.github.io/categories/Tech/Tools/"/>
+      <category term="Tools" scheme="https://sanstwy27.github.io/categories/Tech/Tools/"/>
     
     
-      <category term="markdown" scheme="https://sanstty27.github.io/tags/markdown/"/>
+      <category term="markdown" scheme="https://sanstwy27.github.io/tags/markdown/"/>
     
   </entry>
   
