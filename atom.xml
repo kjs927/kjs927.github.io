@@ -43,13 +43,13 @@
     
       <category term="Jenkins" scheme="https://sanstwy27.github.io/tags/Jenkins/"/>
     
-      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
-    
-      <category term="Eureka" scheme="https://sanstwy27.github.io/tags/Eureka/"/>
-    
       <category term="Docker" scheme="https://sanstwy27.github.io/tags/Docker/"/>
     
       <category term="Harbor" scheme="https://sanstwy27.github.io/tags/Harbor/"/>
+    
+      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
+    
+      <category term="Eureka" scheme="https://sanstwy27.github.io/tags/Eureka/"/>
     
   </entry>
   
@@ -85,9 +85,9 @@
     
       <category term="Gitlab" scheme="https://sanstwy27.github.io/tags/Gitlab/"/>
     
-      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
-    
       <category term="Docker" scheme="https://sanstwy27.github.io/tags/Docker/"/>
+    
+      <category term="IDEA" scheme="https://sanstwy27.github.io/tags/IDEA/"/>
     
       <category term="eureka" scheme="https://sanstwy27.github.io/tags/eureka/"/>
     
